@@ -1,3 +1,20 @@
+# About the Project
+Explore Taqua's platform for Quranic verses, Hadiths, Azkar, and prayer schedules.<br />
+
+👉 **Live Demo :** https://taqua-two.vercel.app/
+
+# The site
+
+# PageSpeed 
+![speedPC](https://github.com/Aya-AbdElsalam/taqua/assets/152267387/c2dad6d3-a3e3-4272-a7e2-11146af7a618)
+![speedPhone](https://github.com/Aya-AbdElsalam/taqua/assets/152267387/598c1120-12a2-40a9-9690-33593a975cf2)
+# Tools
+- Next js
+- Tailwind CSS
+- react icons
+- Axios
+- RESTful API
+  
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
