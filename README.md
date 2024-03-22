@@ -5,7 +5,7 @@ Explore Taqua's platform for Quranic verses, Hadiths, Azkar, and prayer schedule
 
 # The site
 ![taquaSite](https://github.com/Aya-AbdElsalam/taqua/assets/152267387/9e12c3b7-4b80-4333-b436-e8c811ecd146)
-![Uploading taquaSite2.png…]()
+![taquaSite2](https://github.com/Aya-AbdElsalam/taqua/assets/152267387/6664dcbf-a2d9-4be4-a6c3-1b33043f03aa)
 
 # PageSpeed 
 ![speedPC](https://github.com/Aya-AbdElsalam/taqua/assets/152267387/c2dad6d3-a3e3-4272-a7e2-11146af7a618)
